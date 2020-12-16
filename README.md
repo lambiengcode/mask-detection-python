@@ -1,8 +1,6 @@
-# mask_detection
+### How I can run it? :tada::tada:
 
-How to run it? Okay, follow me...
+- :rocket: Istall requirements lib
+- :rocket: Run python3 detect_mask_video.py on terminal in project
 
-1. install requirements lib
-2. python3 detect_mask_video.py
-
-that's so easy!
+:tada: That's so easy! :bomb::bomb:
